@@ -72,5 +72,29 @@ Chaque modèle prédit le rang académique selon la spécialité choisie.
 - Très populaire chez les étudiants
 - Réponses instantanées
 
+## 📷 Captures d’écran du projet
+
+### 🌐 Interface Web – Estimation de Rang
+Cette interface permet à l’étudiant de saisir ses notes, de choisir sa spécialité
+et d’obtenir une estimation claire de son rang académique.
+
+![Interface Web](capture/cp1.png)
+
+---
+
+### 🤖 Bot Telegram – Interaction utilisateur
+Le bot Telegram offre une interaction rapide et intuitive pour estimer le rang
+académique sans passer par une application web.
+
+![Bot Telegram](screenshots/bot_telegram.png)
+
+---
+
+### 📊 Résultats & Visualisation des prédictions
+Les résultats sont présentés sous forme de scénarios (optimiste, réaliste,
+pessimiste) avec une visualisation graphique claire et compréhensible.
+
+![Résultats](screenshots/resultats_visualisation.png)
+
 ---
 

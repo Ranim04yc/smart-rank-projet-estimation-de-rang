@@ -93,7 +93,7 @@ et d’obtenir une estimation claire de son rang académique.
 Les résultats sont présentés sous forme de scénarios (optimiste, réaliste,
 pessimiste) avec une visualisation graphique claire et compréhensible.
 
-![Résultats](captures/cp3.png)
+![Résultats](capture/cp3.png)
 
 ---
 
@@ -102,5 +102,5 @@ pessimiste) avec une visualisation graphique claire et compréhensible.
 L’interface affiche un **graphe comparatif** présentant trois scénarios d’estimation du rang académique : **optimiste**, **réaliste** et **pessimiste**.  
 Cette visualisation permet à l’étudiant de comprendre facilement l’intervalle possible de son classement et d’avoir une vision plus claire et réaliste de sa position académique.
 
-![Résultats](captures/graphetout.png)
+![Résultats](capture/graphetout.png)
 

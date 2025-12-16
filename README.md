@@ -72,6 +72,13 @@ Chaque modèle prédit le rang académique selon la spécialité choisie.
 - Très populaire chez les étudiants
 - Réponses instantanées
 
+## 🧠 Algorithme K-Nearest Neighbors (KNN)
+
+L’algorithme K-Nearest Neighbors (KNN) estime le rang académique d’un étudiant en comparant ses résultats avec ceux des *k* étudiants les plus similaires du dataset, en utilisant la distance euclidienne.  
+Une pondération basée sur la distance est appliquée afin de donner plus d’influence aux voisins les plus proches, ce qui améliore la précision de l’estimation.
+K=5
+![Interface Web](capture/knn.png)
+
 ## 📷 Captures d’écran du projet
 
 ### 🌐 Interface Web – Estimation de Rang
@@ -82,19 +89,18 @@ et d’obtenir une estimation claire de son rang académique.
 
 ---
 
-### 🤖 Bot Telegram – Interaction utilisateur
-Le bot Telegram offre une interaction rapide et intuitive pour estimer le rang
-académique sans passer par une application web.
-
-![Bot Telegram](screenshots/bot_telegram.png)
-
----
-
 ### 📊 Résultats & Visualisation des prédictions
 Les résultats sont présentés sous forme de scénarios (optimiste, réaliste,
 pessimiste) avec une visualisation graphique claire et compréhensible.
 
-![Résultats](screenshots/resultats_visualisation.png)
+![Résultats](captures/cp3.png)
 
 ---
+
+## 📊 Visualisation des scénarios de rang
+
+L’interface affiche un **graphe comparatif** présentant trois scénarios d’estimation du rang académique : **optimiste**, **réaliste** et **pessimiste**.  
+Cette visualisation permet à l’étudiant de comprendre facilement l’intervalle possible de son classement et d’avoir une vision plus claire et réaliste de sa position académique.
+
+![Résultats](captures/graphetout.png)
 

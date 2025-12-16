@@ -74,24 +74,3 @@ Chaque modèle prédit le rang académique selon la spécialité choisie.
 
 ---
 
-## 📁 Structure du projet
-rank_estimation/
-│
-├── models/
-│ ├── ai_model.pickle
-│ ├── logic_model.pickle
-│ ├── network_model.pickle
-│ └── software_model.pickle
-│
-├── rankdata.xlsm
-├── telegram bot model.ipynb
-├── rank_estimation_bot.py
-├── app.py
-├── config.py
-├── setup_token.py
-├── start_bot.py
-├── test_bot_logic.py
-├── test_setup.py
-├── requirements.txt
-└── README.md
-
